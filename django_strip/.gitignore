@@ -1,0 +1,5 @@
+.env
+../.idea/
+django_strip/__pycache__/
+item/__pycache__/
+item/migrations/__pycache__/
